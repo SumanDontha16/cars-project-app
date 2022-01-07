@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Detail Car Component rendered successfully! 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <div>
+      <div
+        class="row"
+      >
+        <div
+          class="col-md-12"
+        >
+          <a
+            href="/"
+          >
+            <button
+              class="btn btn-dark"
+              type="button"
+            >
+              Go Back
+            </button>
+          </a>
+        </div>
+      </div>
+      <div
+        class="listing"
+      >
+        <div
+          class="row"
+        >
+          <div
+            class="col-md-12"
+          >
+            <span />
+             (
+            <span />
+            )
+            <h4 />
+            <span />
+            <br />
+            <br />
+            <p
+              class="lead"
+            >
+              <small>
+                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+              </small>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
