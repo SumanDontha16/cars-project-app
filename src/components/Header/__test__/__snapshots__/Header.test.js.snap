@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Test to match snapshot of component 1`] = `
+<nav
+  className="navbar navbar-light py-4 mb-4"
+  style={
+    Object {
+      "backgroundColor": "#24356d",
+    }
+  }
+>
+  <div
+    className="container"
+  >
+    <h4
+      className="display-6"
+      data-testid="header"
+      style={
+        Object {
+          "color": "#ffffff",
+        }
+      }
+    >
+      Cars Inventory
+    </h4>
+  </div>
+</nav>
+`;
