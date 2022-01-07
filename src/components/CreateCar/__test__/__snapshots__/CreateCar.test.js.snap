@@ -1,0 +1,109 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Create Car Test to match snapshot of component 1`] = `
+<div
+  className="container updateCar"
+>
+  <h3
+    className="display-6 mb-5"
+    data-testid="title"
+  >
+    Create Car
+  </h3>
+  <form
+    onSubmit={[Function]}
+  >
+    <div
+      className="mb-3"
+    >
+      <label
+        className="form-label"
+        htmlFor="make"
+      >
+        Make
+      </label>
+      <input
+        className="form-control"
+        data-testid="make"
+        id="make"
+        onChange={[Function]}
+        required={true}
+        type="text"
+        value=""
+      />
+    </div>
+    <div
+      className="mb-3"
+    >
+      <label
+        className="form-label"
+        htmlFor="model"
+      >
+        Model
+      </label>
+      <input
+        className="form-control"
+        id="model"
+        onChange={[Function]}
+        required={true}
+        type="text"
+        value=""
+      />
+    </div>
+    <div
+      className="mb-3"
+    >
+      <label
+        className="form-label"
+        htmlFor="colour"
+      >
+        Colour
+      </label>
+      <input
+        className="form-control"
+        id="colour"
+        onChange={[Function]}
+        required={true}
+        type="text"
+        value=""
+      />
+    </div>
+    <div
+      className="mb-3"
+    >
+      <label
+        className="form-label"
+        htmlFor="year"
+      >
+        Year
+      </label>
+      <input
+        className="form-control"
+        id="year"
+        onChange={[Function]}
+        required={true}
+        type="number"
+        value=""
+      />
+    </div>
+    <button
+      className="btn btn-primary me-2"
+      data-testid="addcar"
+      type="submit"
+    >
+      Add Car
+    </button>
+    <a
+      href="/"
+      onClick={[Function]}
+    >
+      <button
+        className="btn btn-dark"
+        type="button"
+      >
+        Cancel
+      </button>
+    </a>
+  </form>
+</div>
+`;
