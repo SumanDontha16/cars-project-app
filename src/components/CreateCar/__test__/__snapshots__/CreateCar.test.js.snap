@@ -89,6 +89,7 @@ exports[`Create Car Test to match snapshot of component 1`] = `
     <button
       className="btn btn-primary me-2"
       data-testid="addcar"
+      id="addcar"
       type="submit"
     >
       Add Car
@@ -99,6 +100,7 @@ exports[`Create Car Test to match snapshot of component 1`] = `
     >
       <button
         className="btn btn-dark"
+        id="cancel"
         type="button"
       >
         Cancel

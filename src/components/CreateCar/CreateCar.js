@@ -90,12 +90,13 @@ const CreateCar = () => {
 					<button
 						type="submit"
 						data-testid="addcar"
+						id="addcar"
 						className="btn btn-primary me-2"
 					>
 						Add Car
 					</button>
 					<Link to="/">
-						<button type="button" className="btn btn-dark">
+						<button type="button" id="cancel" className="btn btn-dark">
 							Cancel
 						</button>
 					</Link>
